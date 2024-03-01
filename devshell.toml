@@ -1,5 +1,5 @@
 [devshell]
-name = "Anagram game"
+name = "Game Dev Environment"
 packages = ["zig-shell-completions", "direnv", "gh"]
 packagesFrom = ["direnv"]
 
